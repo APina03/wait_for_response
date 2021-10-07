@@ -1,5 +1,5 @@
 # action.yml
-name: 'Healthz'
+name: 'Healthy Checkup'
 author: 'Justin Knight'
 branding:
     icon: 'clock'  
