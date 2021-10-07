@@ -2,6 +2,9 @@
 
 This action makes a HEAD requests to a given URL until the required response code is retrieved or the timeout is met.  Initially created to allow test containers to startup before executing tests against them.
 
+## Versions
+GO => 1.17
+
 ## Inputs
 
 ### `url`
