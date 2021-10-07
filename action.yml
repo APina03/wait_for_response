@@ -1,5 +1,5 @@
 # action.yml
-name: 'Wait For Response'
+name: 'Healthcheck'
 author: 'Justin Knight'
 branding:
     icon: 'clock'  
